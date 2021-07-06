@@ -4,6 +4,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    font-family: 'PT Sans', sans-serif;
+}
 .flex-container {
     display: flex;
     flex-wrap: wrap;
@@ -15,7 +18,7 @@
   .flex-item {
     width: 40%;
    
-    padding: 50px;
+    padding: 45px;
   }
   
   .second-container{
