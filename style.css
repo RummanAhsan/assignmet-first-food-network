@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+
+    padding: 0;
+    box-sizing: border-box;
+}
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+ 
+  
+  .flex-item {
+    width: 40%;
+   
+    padding: 50px;
+  }
+  
+  .second-container{
+    
+        background-image: url("./images/shapes/7.png"); /* The image used */
+        background-color: #cccccc; /* Used if the image is unavailable */
+        height: 1100px; /* You must set a specified height */
+        background-position: center; /* Center the image */
+        background-repeat: no-repeat; /* Do not repeat the image */
+        background-size: cover; /* Resize the background image to cover the entire container */
+     
+  }
