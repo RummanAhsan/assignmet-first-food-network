@@ -31,3 +31,29 @@ body{
         background-size: cover; /* Resize the background image to cover the entire container */
      
   }
+  .recipies{
+    margin-top: 50px;
+  }
+  .recipies-subtitle{
+    width: 400px;
+    margin-bottom: 50px;
+    margin-left: 40%;
+    margin-right: 20%;
+  }
+  .recipie-paragraph{
+    width:72%;
+  }
+  .social{
+    display: flex;
+    width: 83%;
+    height: 89px;
+    background-color: #f5fbf5;
+    box-shadow: 10px 10px 30px #673b3b;
+    padding: 5% 0;
+    margin: 5% 0;
+    margin-right: 9%;
+}
+.youtube{
+  width: 35%;
+  margin-left: 230px;
+}
